@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D831189D-3F1F-4BBA-A0A5-03CAA7CCA169}|Default">
+  <MonoDevelop.Ide.ItemProperties.DataAccessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EntityLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BusinessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TraversalCoreProject FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccessLayer/Concrete/Context.cs">
+    <Files>
+      <File FileName="DataAccessLayer/Concrete/Context.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TraversalCoreProject" expanded="True">
+            <Node name="BusinessLayer" expanded="True" />
+            <Node name="DataAccessLayer" expanded="True">
+              <Node name="Concrete" expanded="True">
+                <Node name="Context.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="EntityLayer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
